@@ -14,4 +14,4 @@ SPOTA_Like_Forecast_ENSO_IPO.py:- Producces ENSO and IPO state forecasts for the
 
 DF_Aggregate.py, Forecast_Common.py, Forecast_Models.py, Forecasts_Plots.py are all functions files used by all the scripts above.
 
-QLD_Apr_Mar_SOI_Jun_Mar_TPI_Jul_Jun.csv:- File contains Queensland April-to-March annual rainfall, Jun-to-March average SOI, and July-to-June average TPI which represents IPO
+QLD_Apr_Mar_SOI_Jun_Mar_TPI_Jul_Jun.csv:- File contains Queensland April-to-March annual rainfall, Jun-to-March average SOI, and July-to-June average TPI which represents IPO.
